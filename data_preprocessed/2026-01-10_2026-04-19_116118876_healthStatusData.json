@@ -1,0 +1,5097 @@
+[
+    {
+        "calendarDate": "2026-01-10",
+        "createTimestampUTC": "2026-01-10T09:48:31.551",
+        "updateTimestampUTC": "2026-01-10T09:48:31.551",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 31.0,
+                "baselineUpperLimit": 58.0,
+                "baselineLowerLimit": 29.0,
+                "status": "IN_RANGE",
+                "percentage": 7.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 80.0,
+                "baselineLowerLimit": 59.0,
+                "status": "IN_RANGE",
+                "percentage": 76.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.0,
+                "baselineUpperLimit": 19.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 38.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-11",
+        "createTimestampUTC": "2026-01-11T10:15:11.981",
+        "updateTimestampUTC": "2026-01-11T10:15:11.981",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 39.0,
+                "baselineUpperLimit": 57.0,
+                "baselineLowerLimit": 29.0,
+                "status": "IN_RANGE",
+                "percentage": 36.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 73.0,
+                "baselineUpperLimit": 81.0,
+                "baselineLowerLimit": 59.0,
+                "status": "IN_RANGE",
+                "percentage": 64.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.2,
+                "baselineUpperLimit": 19.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 74.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-12",
+        "createTimestampUTC": "2026-01-12T08:11:34.876",
+        "updateTimestampUTC": "2026-01-12T08:11:34.876",
+        "outliersCount": 1,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 26.0,
+                "baselineUpperLimit": 57.0,
+                "baselineLowerLimit": 29.0,
+                "status": "BELOW",
+                "percentage": 73.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_BELOW_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 80.0,
+                "baselineUpperLimit": 81.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 95.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.1,
+                "baselineUpperLimit": 19.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 71.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-13",
+        "createTimestampUTC": "2026-01-13T11:33:35.982",
+        "updateTimestampUTC": "2026-01-13T11:33:35.982",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 35.0,
+                "baselineUpperLimit": 57.0,
+                "baselineLowerLimit": 28.0,
+                "status": "IN_RANGE",
+                "percentage": 24.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 73.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 59.0,
+                "status": "IN_RANGE",
+                "percentage": 61.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.3,
+                "baselineUpperLimit": 19.1,
+                "baselineLowerLimit": 15.8,
+                "status": "IN_RANGE",
+                "percentage": 45.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-14",
+        "createTimestampUTC": "2026-01-14T07:37:31.300",
+        "updateTimestampUTC": "2026-01-14T07:37:31.300",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 57.0,
+                "baselineLowerLimit": 28.0,
+                "status": "IN_RANGE",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 59.0,
+                "status": "IN_RANGE",
+                "percentage": 74.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.5,
+                "baselineUpperLimit": 19.1,
+                "baselineLowerLimit": 15.8,
+                "status": "IN_RANGE",
+                "percentage": 52.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-15",
+        "createTimestampUTC": "2026-01-15T11:09:08.225",
+        "updateTimestampUTC": "2026-01-15T11:09:08.225",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 32.0,
+                "baselineUpperLimit": 57.0,
+                "baselineLowerLimit": 28.0,
+                "status": "IN_RANGE",
+                "percentage": 14.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 59.0,
+                "status": "IN_RANGE",
+                "percentage": 65.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.8,
+                "baselineUpperLimit": 19.1,
+                "baselineLowerLimit": 15.8,
+                "status": "IN_RANGE",
+                "percentage": 61.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-16",
+        "createTimestampUTC": "2026-01-16T08:04:19.117",
+        "updateTimestampUTC": "2026-01-16T08:04:19.117",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 33.0,
+                "baselineUpperLimit": 56.0,
+                "baselineLowerLimit": 28.0,
+                "status": "IN_RANGE",
+                "percentage": 18.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 59.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.5,
+                "baselineUpperLimit": 19.1,
+                "baselineLowerLimit": 15.8,
+                "status": "IN_RANGE",
+                "percentage": 82.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-17",
+        "createTimestampUTC": "2026-01-17T09:14:09.452",
+        "updateTimestampUTC": "2026-01-17T09:14:09.452",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 32.0,
+                "baselineUpperLimit": 56.0,
+                "baselineLowerLimit": 28.0,
+                "status": "IN_RANGE",
+                "percentage": 14.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 59.0,
+                "status": "IN_RANGE",
+                "percentage": 65.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.1,
+                "baselineUpperLimit": 19.1,
+                "baselineLowerLimit": 15.8,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-18",
+        "createTimestampUTC": "2026-01-18T10:29:48.231",
+        "updateTimestampUTC": "2026-01-18T10:29:48.231",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 31.0,
+                "baselineUpperLimit": 56.0,
+                "baselineLowerLimit": 27.0,
+                "status": "IN_RANGE",
+                "percentage": 14.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 73.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.5,
+                "baselineUpperLimit": 19.1,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 81.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-19",
+        "createTimestampUTC": "2026-01-19T07:08:55.178",
+        "updateTimestampUTC": "2026-01-19T07:08:55.178",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 30.0,
+                "baselineUpperLimit": 56.0,
+                "baselineLowerLimit": 27.0,
+                "status": "IN_RANGE",
+                "percentage": 10.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 73.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 94.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.1,
+                "baselineUpperLimit": 19.2,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 67.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-20",
+        "createTimestampUTC": "2026-01-20T11:13:51.990",
+        "updateTimestampUTC": "2026-01-20T11:13:51.990",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 37.0,
+                "baselineUpperLimit": 56.0,
+                "baselineLowerLimit": 27.0,
+                "status": "IN_RANGE",
+                "percentage": 34.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 72.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 55.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.0,
+                "baselineUpperLimit": 19.2,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 33.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-21",
+        "createTimestampUTC": "2026-01-21T09:35:29.901",
+        "updateTimestampUTC": "2026-01-21T09:35:29.901",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 34.0,
+                "baselineUpperLimit": 55.0,
+                "baselineLowerLimit": 27.0,
+                "status": "IN_RANGE",
+                "percentage": 25.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 68.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.6,
+                "baselineUpperLimit": 19.2,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 52.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-22",
+        "createTimestampUTC": "2026-01-22T10:16:29.611",
+        "updateTimestampUTC": "2026-01-22T10:16:29.611",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 33.0,
+                "baselineUpperLimit": 55.0,
+                "baselineLowerLimit": 27.0,
+                "status": "IN_RANGE",
+                "percentage": 21.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 78.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 78.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.6,
+                "baselineUpperLimit": 19.2,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 52.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-23",
+        "createTimestampUTC": "2026-01-23T06:59:16.780",
+        "updateTimestampUTC": "2026-01-23T06:59:16.780",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 29.0,
+                "baselineUpperLimit": 55.0,
+                "baselineLowerLimit": 27.0,
+                "status": "IN_RANGE",
+                "percentage": 7.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 79.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 83.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.6,
+                "baselineUpperLimit": 19.2,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 82.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-24",
+        "createTimestampUTC": "2026-01-24T09:35:44.124",
+        "updateTimestampUTC": "2026-01-24T09:35:44.124",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 38.0,
+                "baselineUpperLimit": 55.0,
+                "baselineLowerLimit": 27.0,
+                "status": "IN_RANGE",
+                "percentage": 39.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 73.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 57.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.6,
+                "baselineUpperLimit": 19.2,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 82.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-25",
+        "createTimestampUTC": "2026-01-25T11:24:58.589",
+        "updateTimestampUTC": "2026-01-25T11:24:58.589",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 33.0,
+                "baselineUpperLimit": 55.0,
+                "baselineLowerLimit": 27.0,
+                "status": "IN_RANGE",
+                "percentage": 21.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 65.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.5,
+                "baselineUpperLimit": 19.2,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 79.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-26",
+        "createTimestampUTC": "2026-01-26T09:44:25.235",
+        "updateTimestampUTC": "2026-01-26T09:44:25.235",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 35.0,
+                "baselineUpperLimit": 54.0,
+                "baselineLowerLimit": 26.0,
+                "status": "IN_RANGE",
+                "percentage": 32.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 61.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.8,
+                "baselineUpperLimit": 19.3,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 55.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-27",
+        "createTimestampUTC": "2026-01-27T08:20:33.557",
+        "updateTimestampUTC": "2026-01-27T08:20:33.557",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 35.0,
+                "baselineUpperLimit": 54.0,
+                "baselineLowerLimit": 26.0,
+                "status": "IN_RANGE",
+                "percentage": 32.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 60.0,
+                "status": "IN_RANGE",
+                "percentage": 61.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.6,
+                "baselineUpperLimit": 19.3,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 48.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-28",
+        "createTimestampUTC": "2026-01-28T09:33:55.774",
+        "updateTimestampUTC": "2026-01-28T09:33:55.774",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 45.0,
+                "baselineUpperLimit": 54.0,
+                "baselineLowerLimit": 26.0,
+                "status": "IN_RANGE",
+                "percentage": 68.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 70.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 61.0,
+                "status": "IN_RANGE",
+                "percentage": 41.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.4,
+                "baselineUpperLimit": 19.3,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 42.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-29",
+        "createTimestampUTC": "2026-01-29T06:30:33.621",
+        "updateTimestampUTC": "2026-01-29T06:30:33.621",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 30.0,
+                "baselineUpperLimit": 54.0,
+                "baselineLowerLimit": 26.0,
+                "status": "IN_RANGE",
+                "percentage": 14.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 79.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 61.0,
+                "status": "IN_RANGE",
+                "percentage": 82.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.5,
+                "baselineUpperLimit": 19.3,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 76.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-30",
+        "createTimestampUTC": "2026-01-30T11:07:55.837",
+        "updateTimestampUTC": "2026-01-30T11:07:55.837",
+        "outliersCount": 1,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 24.0,
+                "baselineUpperLimit": 53.0,
+                "baselineLowerLimit": 26.0,
+                "status": "BELOW",
+                "percentage": 80.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_BELOW_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 81.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 61.0,
+                "status": "IN_RANGE",
+                "percentage": 91.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.0,
+                "baselineUpperLimit": 19.3,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 91.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-01-31",
+        "createTimestampUTC": "2026-01-31T10:09:46.515",
+        "updateTimestampUTC": "2026-01-31T10:09:46.515",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 32.0,
+                "baselineUpperLimit": 53.0,
+                "baselineLowerLimit": 26.0,
+                "status": "IN_RANGE",
+                "percentage": 22.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 77.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 61.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 93.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 30.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.3,
+                "baselineUpperLimit": 19.3,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-01",
+        "createTimestampUTC": "2026-02-01T10:32:16.967",
+        "updateTimestampUTC": "2026-02-01T10:32:16.967",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 53.0,
+                "baselineLowerLimit": 26.0,
+                "status": "IN_RANGE",
+                "percentage": 7.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 79.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 61.0,
+                "status": "IN_RANGE",
+                "percentage": 78.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.9,
+                "baselineUpperLimit": 19.4,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 85.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-02",
+        "createTimestampUTC": "2026-02-02T09:29:48.883",
+        "updateTimestampUTC": "2026-02-02T09:29:48.883",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 29.0,
+                "baselineUpperLimit": 53.0,
+                "baselineLowerLimit": 26.0,
+                "status": "IN_RANGE",
+                "percentage": 11.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 79.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 61.0,
+                "status": "IN_RANGE",
+                "percentage": 78.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.4,
+                "baselineUpperLimit": 19.4,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 71.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-03",
+        "createTimestampUTC": "2026-02-03T07:37:05.485",
+        "updateTimestampUTC": "2026-02-03T07:37:05.485",
+        "outliersCount": 2,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 25.0,
+                "baselineUpperLimit": 52.0,
+                "baselineLowerLimit": 26.0,
+                "status": "BELOW",
+                "percentage": 90.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_BELOW_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 78.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 61.0,
+                "status": "IN_RANGE",
+                "percentage": 74.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 20.1,
+                "baselineUpperLimit": 19.4,
+                "baselineLowerLimit": 16.0,
+                "status": "ABOVE",
+                "percentage": 45.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_ABOVE_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-04",
+        "createTimestampUTC": "2026-02-04T12:01:08.196",
+        "updateTimestampUTC": "2026-02-04T12:01:08.196",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 30.0,
+                "baselineUpperLimit": 52.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 19.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 62.0,
+                "status": "IN_RANGE",
+                "percentage": 64.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.4,
+                "baselineUpperLimit": 19.4,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 100.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-05",
+        "createTimestampUTC": "2026-02-05T06:37:59.599",
+        "updateTimestampUTC": "2026-02-05T06:37:59.599",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 52.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 11.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 62.0,
+                "status": "IN_RANGE",
+                "percentage": 59.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.1,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-06",
+        "createTimestampUTC": "2026-02-06T06:40:07.781",
+        "updateTimestampUTC": "2026-02-06T06:40:07.781",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 32.0,
+                "baselineUpperLimit": 52.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 26.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 62.0,
+                "status": "IN_RANGE",
+                "percentage": 55.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.4,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-07",
+        "createTimestampUTC": "2026-02-07T11:27:39.460",
+        "updateTimestampUTC": "2026-02-07T11:27:39.460",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 34.0,
+                "baselineUpperLimit": 52.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 33.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 73.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 62.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 94.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.5,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-08",
+        "createTimestampUTC": "2026-02-08T10:35:25.151",
+        "updateTimestampUTC": "2026-02-08T10:35:25.151",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 31.0,
+                "baselineUpperLimit": 51.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 23.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 62.0,
+                "status": "IN_RANGE",
+                "percentage": 55.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.7,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 49.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-09",
+        "createTimestampUTC": "2026-02-09T09:28:20.654",
+        "updateTimestampUTC": "2026-02-09T09:28:20.654",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 33.0,
+                "baselineUpperLimit": 51.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 31.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 63.0,
+                "status": "IN_RANGE",
+                "percentage": 52.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.5,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-10",
+        "createTimestampUTC": "2026-02-10T07:34:57.11",
+        "updateTimestampUTC": "2026-02-10T07:34:57.11",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 30.0,
+                "baselineUpperLimit": 50.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 20.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 63.0,
+                "status": "IN_RANGE",
+                "percentage": 52.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.2,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 34.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-11",
+        "createTimestampUTC": "2026-02-11T08:01:25.30",
+        "updateTimestampUTC": "2026-02-11T08:01:25.30",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 37.0,
+                "baselineUpperLimit": 49.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 72.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 63.0,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.9,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 26.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-14",
+        "createTimestampUTC": "2026-02-14T08:43:03.585",
+        "updateTimestampUTC": "2026-02-14T08:43:03.585",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 32.0,
+                "baselineUpperLimit": 49.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 29.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 77.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 63.0,
+                "status": "IN_RANGE",
+                "percentage": 67.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.4,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-15",
+        "createTimestampUTC": "2026-02-15T05:32:19.85",
+        "updateTimestampUTC": "2026-02-15T05:32:19.85",
+        "outliersCount": 2,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 18.0,
+                "baselineUpperLimit": 49.0,
+                "baselineLowerLimit": 25.0,
+                "status": "BELOW",
+                "percentage": 21.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_BELOW_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 88.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 64.0,
+                "status": "ABOVE",
+                "percentage": 45.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_ABOVE_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.3,
+                "baselineUpperLimit": 19.4,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 97.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-16",
+        "createTimestampUTC": "2026-02-16T07:11:47.110",
+        "updateTimestampUTC": "2026-02-16T07:11:47.110",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 26.0,
+                "baselineUpperLimit": 49.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 8.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 81.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 64.0,
+                "status": "IN_RANGE",
+                "percentage": 85.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.0,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 58.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-17",
+        "createTimestampUTC": "2026-02-17T06:40:00.772",
+        "updateTimestampUTC": "2026-02-17T06:40:00.772",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 29.0,
+                "baselineUpperLimit": 49.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 20.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 79.0,
+                "baselineUpperLimit": 85.0,
+                "baselineLowerLimit": 64.0,
+                "status": "IN_RANGE",
+                "percentage": 71.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 94.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.7,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 49.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-18",
+        "createTimestampUTC": "2026-02-18T07:16:25.17",
+        "updateTimestampUTC": "2026-02-18T07:16:25.17",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 36.0,
+                "baselineUpperLimit": 48.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 85.0,
+                "baselineLowerLimit": 64.0,
+                "status": "IN_RANGE",
+                "percentage": 52.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.5,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-19",
+        "createTimestampUTC": "2026-02-19T08:10:55.984",
+        "updateTimestampUTC": "2026-02-19T08:10:55.984",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 41.0,
+                "baselineUpperLimit": 47.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 74.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 85.0,
+                "baselineLowerLimit": 64.0,
+                "status": "IN_RANGE",
+                "percentage": 48.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.8,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 23.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-20",
+        "createTimestampUTC": "2026-02-20T10:21:06.984",
+        "updateTimestampUTC": "2026-02-20T10:21:06.984",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 27.0,
+                "baselineUpperLimit": 47.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 13.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 78.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 64.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.3,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 66.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-21",
+        "createTimestampUTC": "2026-02-21T07:04:09.880",
+        "updateTimestampUTC": "2026-02-21T07:04:09.880",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 25.0,
+                "baselineUpperLimit": 47.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 4.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 80.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 65.0,
+                "status": "IN_RANGE",
+                "percentage": 79.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 94.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.5,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 100.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-22",
+        "createTimestampUTC": "2026-02-22T10:22:07.797",
+        "updateTimestampUTC": "2026-02-22T10:22:07.797",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 29.0,
+                "baselineUpperLimit": 47.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 22.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 77.0,
+                "baselineUpperLimit": 85.0,
+                "baselineLowerLimit": 65.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.2,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 62.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-23",
+        "createTimestampUTC": "2026-02-23T08:45:43.36",
+        "updateTimestampUTC": "2026-02-23T08:45:43.36",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 33.0,
+                "baselineUpperLimit": 46.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 41.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 73.0,
+                "baselineUpperLimit": 85.0,
+                "baselineLowerLimit": 65.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.7,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 47.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-24",
+        "createTimestampUTC": "2026-02-24T09:35:42.381",
+        "updateTimestampUTC": "2026-02-24T09:35:42.381",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 46.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 18.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 78.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 65.0,
+                "status": "IN_RANGE",
+                "percentage": 68.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.8,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-25",
+        "createTimestampUTC": "2026-02-25T08:01:07.817",
+        "updateTimestampUTC": "2026-02-25T08:01:07.817",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 33.0,
+                "baselineUpperLimit": 45.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 73.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 66.0,
+                "status": "IN_RANGE",
+                "percentage": 39.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.3,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 36.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-26",
+        "createTimestampUTC": "2026-02-26T06:49:40.791",
+        "updateTimestampUTC": "2026-02-26T06:49:40.791",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 35.0,
+                "baselineUpperLimit": 44.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 55.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 71.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 66.0,
+                "status": "IN_RANGE",
+                "percentage": 28.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.1,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 31.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-27",
+        "createTimestampUTC": "2026-02-27T07:24:37.756",
+        "updateTimestampUTC": "2026-02-27T07:24:37.756",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 44.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 20.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 66.0,
+                "status": "IN_RANGE",
+                "percentage": 56.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.6,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 44.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-02-28",
+        "createTimestampUTC": "2026-02-28T10:13:43.31",
+        "updateTimestampUTC": "2026-02-28T10:13:43.31",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 35.0,
+                "baselineUpperLimit": 44.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 55.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 73.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 66.0,
+                "status": "IN_RANGE",
+                "percentage": 39.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_UNKNOWN"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.0,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 28.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-01",
+        "createTimestampUTC": "2026-03-01T10:07:30.616",
+        "updateTimestampUTC": "2026-03-01T10:07:30.616",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 40.0,
+                "baselineUpperLimit": 44.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 80.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 71.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 66.0,
+                "status": "IN_RANGE",
+                "percentage": 28.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.5,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 16.0,
+                "status": "IN_RANGE",
+                "percentage": 14.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-02",
+        "createTimestampUTC": "2026-03-02T10:18:40.525",
+        "updateTimestampUTC": "2026-03-02T10:18:40.525",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 31.0,
+                "baselineUpperLimit": 44.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 35.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 47.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.0,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 57.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-03",
+        "createTimestampUTC": "2026-03-03T08:10:07.776",
+        "updateTimestampUTC": "2026-03-03T08:10:07.776",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 38.0,
+                "baselineUpperLimit": 44.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 71.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 25.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.1,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 32.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-04",
+        "createTimestampUTC": "2026-03-04T10:12:08.486",
+        "updateTimestampUTC": "2026-03-04T10:12:08.486",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 35.0,
+                "baselineUpperLimit": 44.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 55.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 72.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 31.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.5,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-05",
+        "createTimestampUTC": "2026-03-05T06:45:39.832",
+        "updateTimestampUTC": "2026-03-05T06:45:39.832",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 32.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 39.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 68.0,
+                "status": "IN_RANGE",
+                "percentage": 47.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.8,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 51.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-06",
+        "createTimestampUTC": "2026-03-06T08:47:08.634",
+        "updateTimestampUTC": "2026-03-06T08:47:08.634",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 30.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 28.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 68.0,
+                "status": "IN_RANGE",
+                "percentage": 53.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.1,
+                "baselineUpperLimit": 19.5,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 89.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-07",
+        "createTimestampUTC": "2026-03-07T10:12:23.995",
+        "updateTimestampUTC": "2026-03-07T10:12:23.995",
+        "outliersCount": 3,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 21.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 25.0,
+                "status": "BELOW",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_BELOW_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 84.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 69.0,
+                "status": "ABOVE",
+                "percentage": 30.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_ABOVE_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 20.6,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 15.9,
+                "status": "ABOVE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_ABOVE_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-08",
+        "createTimestampUTC": "2026-03-08T10:17:25.599",
+        "updateTimestampUTC": "2026-03-08T10:17:25.599",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 32.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 42.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 68.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.2,
+                "baselineUpperLimit": 19.7,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 61.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-09",
+        "createTimestampUTC": "2026-03-09T10:15:10.983",
+        "updateTimestampUTC": "2026-03-09T10:15:10.983",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 34.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 53.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.2,
+                "baselineUpperLimit": 19.7,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 61.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-10",
+        "createTimestampUTC": "2026-03-10T08:27:53.79",
+        "updateTimestampUTC": "2026-03-10T08:27:53.79",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 40.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 88.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 70.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 7.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 15.9,
+                "baselineUpperLimit": 19.7,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-11",
+        "createTimestampUTC": "2026-03-11T11:07:19.953",
+        "updateTimestampUTC": "2026-03-11T11:07:19.953",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 38.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 76.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 72.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 21.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.5,
+                "baselineUpperLimit": 19.8,
+                "baselineLowerLimit": 15.8,
+                "status": "IN_RANGE",
+                "percentage": 42.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-12",
+        "createTimestampUTC": "2026-03-12T06:37:21.989",
+        "updateTimestampUTC": "2026-03-12T06:37:21.989",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 30.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 29.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 46.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.9,
+                "baselineUpperLimit": 19.7,
+                "baselineLowerLimit": 15.8,
+                "status": "IN_RANGE",
+                "percentage": 54.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-13",
+        "createTimestampUTC": "2026-03-13T08:09:21.174",
+        "updateTimestampUTC": "2026-03-13T08:09:21.174",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 31.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 35.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 46.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.7,
+                "baselineUpperLimit": 19.7,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 47.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-14",
+        "createTimestampUTC": "2026-03-14T10:12:32.534",
+        "updateTimestampUTC": "2026-03-14T10:12:32.534",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 38.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 76.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 71.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 15.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 94.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.6,
+                "baselineUpperLimit": 19.7,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 45.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-15",
+        "createTimestampUTC": "2026-03-15T09:07:43.767",
+        "updateTimestampUTC": "2026-03-15T09:07:43.767",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 25.0,
+                "status": "IN_RANGE",
+                "percentage": 18.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 80.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 85.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.6,
+                "baselineUpperLimit": 19.6,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 100.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-16",
+        "createTimestampUTC": "2026-03-16T07:31:47.649",
+        "updateTimestampUTC": "2026-03-16T07:31:47.649",
+        "outliersCount": 2,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 24.0,
+                "baselineUpperLimit": 41.0,
+                "baselineLowerLimit": 25.0,
+                "status": "BELOW",
+                "percentage": 85.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_BELOW_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 85.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 69.0,
+                "status": "ABOVE",
+                "percentage": 54.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_ABOVE_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.6,
+                "baselineUpperLimit": 19.7,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 97.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-17",
+        "createTimestampUTC": "2026-03-17T05:40:21.43",
+        "updateTimestampUTC": "2026-03-17T05:40:21.43",
+        "outliersCount": 3,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 21.0,
+                "baselineUpperLimit": 41.0,
+                "baselineLowerLimit": 25.0,
+                "status": "BELOW",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_BELOW_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 83.0,
+                "baselineUpperLimit": 82.0,
+                "baselineLowerLimit": 69.0,
+                "status": "ABOVE",
+                "percentage": 15.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_ABOVE_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 20.2,
+                "baselineUpperLimit": 19.8,
+                "baselineLowerLimit": 15.9,
+                "status": "ABOVE",
+                "percentage": 24.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_ABOVE_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-18",
+        "createTimestampUTC": "2026-03-18T09:25:58.388",
+        "updateTimestampUTC": "2026-03-18T09:25:58.388",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 31.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 39.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 77.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 57.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.7,
+                "baselineUpperLimit": 19.9,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 95.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-19",
+        "createTimestampUTC": "2026-03-19T10:03:52.759",
+        "updateTimestampUTC": "2026-03-19T10:03:52.759",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 40.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 24.0,
+                "status": "IN_RANGE",
+                "percentage": 89.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 71.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 14.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.0,
+                "baselineUpperLimit": 20.0,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 51.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-20",
+        "createTimestampUTC": "2026-03-20T09:33:06.798",
+        "updateTimestampUTC": "2026-03-20T09:33:06.798",
+        "outliersCount": 1,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 44.0,
+                "baselineUpperLimit": 42.0,
+                "baselineLowerLimit": 24.0,
+                "status": "ABOVE",
+                "percentage": 18.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_ABOVE_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 69.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 69.0,
+                "status": "IN_RANGE",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.8,
+                "baselineUpperLimit": 20.0,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 22.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-21",
+        "createTimestampUTC": "2026-03-21T09:54:50.106",
+        "updateTimestampUTC": "2026-03-21T09:54:50.106",
+        "outliersCount": 1,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 49.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 24.0,
+                "status": "ABOVE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_ABOVE_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 68.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 68.0,
+                "status": "IN_RANGE",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.8,
+                "baselineUpperLimit": 20.0,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 22.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-22",
+        "createTimestampUTC": "2026-03-22T11:40:19.966",
+        "updateTimestampUTC": "2026-03-22T11:40:19.966",
+        "outliersCount": 2,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 44.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "ABOVE",
+                "percentage": 10.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_ABOVE_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 66.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 68.0,
+                "status": "BELOW",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_BELOW_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 98.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 80.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.8,
+                "baselineUpperLimit": 20.0,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 22.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-23",
+        "createTimestampUTC": "2026-03-23T10:01:59.186",
+        "updateTimestampUTC": "2026-03-23T10:01:59.186",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 38.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 75.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 69.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 68.0,
+                "status": "IN_RANGE",
+                "percentage": 7.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.6,
+                "baselineUpperLimit": 20.0,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 17.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-24",
+        "createTimestampUTC": "2026-03-24T07:36:19.509",
+        "updateTimestampUTC": "2026-03-24T07:36:19.509",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 33.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 72.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 31.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.0,
+                "baselineUpperLimit": 20.0,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 27.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-25",
+        "createTimestampUTC": "2026-03-25T09:33:39.95",
+        "updateTimestampUTC": "2026-03-25T09:33:39.95",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 39.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 80.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 70.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 19.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.6,
+                "baselineUpperLimit": 20.0,
+                "baselineLowerLimit": 15.9,
+                "status": "IN_RANGE",
+                "percentage": 17.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-26",
+        "createTimestampUTC": "2026-03-26T09:51:39.190",
+        "updateTimestampUTC": "2026-03-26T09:51:39.190",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 37.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 70.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 19.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.6,
+                "baselineUpperLimit": 20.0,
+                "baselineLowerLimit": 15.8,
+                "status": "IN_RANGE",
+                "percentage": 19.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-27",
+        "createTimestampUTC": "2026-03-27T10:17:35.269",
+        "updateTimestampUTC": "2026-03-27T10:17:35.269",
+        "outliersCount": 3,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 22.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 24.0,
+                "status": "BELOW",
+                "percentage": 74.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_BELOW_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 85.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "ABOVE",
+                "percentage": 30.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_ABOVE_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 20.8,
+                "baselineUpperLimit": 20.0,
+                "baselineLowerLimit": 15.8,
+                "status": "ABOVE",
+                "percentage": 45.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_ABOVE_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-28",
+        "createTimestampUTC": "2026-03-28T10:53:43.744",
+        "updateTimestampUTC": "2026-03-28T10:53:43.744",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 33.0,
+                "baselineUpperLimit": 44.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 48.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 72.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 31.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.3,
+                "baselineUpperLimit": 20.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 59.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-29",
+        "createTimestampUTC": "2026-03-29T11:56:33.990",
+        "updateTimestampUTC": "2026-03-29T11:56:33.990",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 33.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 75.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.6,
+                "baselineUpperLimit": 20.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 66.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-30",
+        "createTimestampUTC": "2026-03-30T08:47:31.451",
+        "updateTimestampUTC": "2026-03-30T08:47:31.451",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 38.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 75.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 72.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 31.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.3,
+                "baselineUpperLimit": 20.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 36.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-03-31",
+        "createTimestampUTC": "2026-03-31T08:45:51.514",
+        "updateTimestampUTC": "2026-03-31T08:45:51.514",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 25.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 78.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 69.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.6,
+                "baselineUpperLimit": 20.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-01",
+        "createTimestampUTC": "2026-04-01T10:53:33.81",
+        "updateTimestampUTC": "2026-04-01T10:53:33.81",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 29.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 30.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 56.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.2,
+                "baselineUpperLimit": 20.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 57.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-02",
+        "createTimestampUTC": "2026-04-02T10:02:24.408",
+        "updateTimestampUTC": "2026-04-02T10:02:24.408",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 25.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 78.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 69.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.3,
+                "baselineUpperLimit": 20.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 59.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-03",
+        "createTimestampUTC": "2026-04-03T09:55:01.851",
+        "updateTimestampUTC": "2026-04-03T09:55:01.851",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 25.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 10.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 79.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 75.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.6,
+                "baselineUpperLimit": 20.1,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 89.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-04",
+        "createTimestampUTC": "2026-04-04T07:56:47.273",
+        "updateTimestampUTC": "2026-04-04T07:56:47.273",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 25.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 10.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 80.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 81.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 20.0,
+                "baselineUpperLimit": 20.2,
+                "baselineLowerLimit": 15.7,
+                "status": "IN_RANGE",
+                "percentage": 96.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-05",
+        "createTimestampUTC": "2026-04-05T12:48:27.414",
+        "updateTimestampUTC": "2026-04-05T12:48:27.414",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 27.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 20.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 78.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 69.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 20.1,
+                "baselineUpperLimit": 20.4,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 94.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-06",
+        "createTimestampUTC": "2026-04-06T09:42:05.263",
+        "updateTimestampUTC": "2026-04-06T09:42:05.263",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 30.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 35.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 56.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.5,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 59.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-07",
+        "createTimestampUTC": "2026-04-07T07:37:32.479",
+        "updateTimestampUTC": "2026-04-07T07:37:32.479",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 40.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 85.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 71.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 25.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.1,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 31.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-08",
+        "createTimestampUTC": "2026-04-08T06:45:47.389",
+        "updateTimestampUTC": "2026-04-08T06:45:47.389",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 30.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 35.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 56.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.7,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-09",
+        "createTimestampUTC": "2026-04-09T08:08:51.499",
+        "updateTimestampUTC": "2026-04-09T08:08:51.499",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 31.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 79.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 75.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.5,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 39.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-10",
+        "createTimestampUTC": "2026-04-10T05:58:39.981",
+        "updateTimestampUTC": "2026-04-10T05:58:39.981",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 23.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 81.0,
+                "baselineUpperLimit": 83.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 88.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.2,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 73.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-11",
+        "createTimestampUTC": "2026-04-11T09:43:46.546",
+        "updateTimestampUTC": "2026-04-11T09:43:46.546",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 29.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 30.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 79.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 71.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 18.0,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 49.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-12",
+        "createTimestampUTC": "2026-04-12T09:41:50.495",
+        "updateTimestampUTC": "2026-04-12T09:41:50.495",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 26.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 15.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 83.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 94.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.1,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 71.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-13",
+        "createTimestampUTC": "2026-04-13T08:04:00.839",
+        "updateTimestampUTC": "2026-04-13T08:04:00.839",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 25.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 53.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 97.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 70.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.7,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 43.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-14",
+        "createTimestampUTC": "2026-04-14T09:34:29.912",
+        "updateTimestampUTC": "2026-04-14T09:34:29.912",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 28.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 25.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 81.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 82.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.4,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 37.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-15",
+        "createTimestampUTC": "2026-04-15T07:09:30.314",
+        "updateTimestampUTC": "2026-04-15T07:09:30.314",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 31.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 40.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 79.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 71.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.9,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 27.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-16",
+        "createTimestampUTC": "2026-04-16T10:20:59.957",
+        "updateTimestampUTC": "2026-04-16T10:20:59.957",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 29.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 30.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 80.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 76.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 19.5,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 80.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-17",
+        "createTimestampUTC": "2026-04-17T05:57:54.553",
+        "updateTimestampUTC": "2026-04-17T05:57:54.553",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 27.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 20.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 76.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 53.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.8,
+                "baselineUpperLimit": 20.6,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 44.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-18",
+        "createTimestampUTC": "2026-04-18T09:21:10.847",
+        "updateTimestampUTC": "2026-04-18T09:21:10.847",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 35.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 74.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 41.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 96.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 60.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 17.8,
+                "baselineUpperLimit": 20.6,
+                "baselineLowerLimit": 15.6,
+                "status": "IN_RANGE",
+                "percentage": 44.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    },
+    {
+        "calendarDate": "2026-04-19",
+        "createTimestampUTC": "2026-04-19T09:46:09.179",
+        "updateTimestampUTC": "2026-04-19T09:46:09.179",
+        "outliersCount": 0,
+        "metrics": [
+            {
+                "type": "HRV",
+                "value": 38.0,
+                "baselineUpperLimit": 43.0,
+                "baselineLowerLimit": 23.0,
+                "status": "IN_RANGE",
+                "percentage": 75.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HRV_IN_RANGE"
+            },
+            {
+                "type": "HR",
+                "value": 71.0,
+                "baselineUpperLimit": 84.0,
+                "baselineLowerLimit": 67.0,
+                "status": "IN_RANGE",
+                "percentage": 24.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_HEART_RATE_IN_RANGE"
+            },
+            {
+                "type": "SPO2",
+                "value": 95.0,
+                "baselineUpperLimit": 100.0,
+                "baselineLowerLimit": 90.0,
+                "status": "IN_RANGE",
+                "percentage": 50.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_BLOOD_OXYGEN_IN_RANGE"
+            },
+            {
+                "type": "SKIN_TEMP_C",
+                "baselineUpperLimit": 0.0,
+                "baselineLowerLimit": 0.0,
+                "status": "UNKNOWN",
+                "percentage": 0.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_SKIN_TEMPERATURE_UNKNOWN"
+            },
+            {
+                "type": "RESPIRATION",
+                "value": 16.2,
+                "baselineUpperLimit": 20.5,
+                "baselineLowerLimit": 15.5,
+                "status": "IN_RANGE",
+                "percentage": 14.0,
+                "feedbackKey": "LHA_OFF_YOUR_BASELINE_FEEDBACK_RESPIRATION_RATE_IN_RANGE"
+            }
+        ]
+    }
+]
